@@ -19,6 +19,8 @@
     "jasmine-console-reporter": "^2.0.1",
     "jasmine-node": "^1.14.5",
     "jasmine-supertest": "^1.0.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
     "supertest": "^3.0.0"
   },
   "dependencies": {
